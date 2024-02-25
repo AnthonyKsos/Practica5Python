@@ -1,0 +1,386 @@
+,Provincia,Max precio,Min precio
+0,Achaia,25.0,25.0
+1,Aconcagua Costa,25.0,13.0
+2,Aconcagua Valley,235.0,5.0
+3,Aegean,120.0,15.0
+4,Agioritikos,25.0,22.0
+5,Ahr,78.0,40.0
+6,Alenquer,8.0,8.0
+7,Alentejano,158.0,5.0
+8,Alentejo,275.0,7.0
+9,Algarve,20.0,10.0
+10,Alsace,120.0,8.0
+11,America,75.0,6.0
+12,Amindeo,35.0,20.0
+13,Amyndeon,38.0,24.0
+14,Andalucia,258.0,9.0
+15,Ankara,27.0,18.0
+16,Apalta,82.0,11.0
+17,Arizona,54.0,13.0
+18,Armenia,14.0,14.0
+19,Atalanti Valley,50.0,10.0
+20,Atlantida,40.0,11.0
+21,Attica,30.0,8.0
+22,Australia Other,130.0,6.0
+23,Austria,150.0,11.0
+24,Awatere Valley,25.0,14.0
+25,Baden,138.0,13.0
+26,Bairrada,98.0,7.0
+27,Beaujolais,224.0,9.0
+28,Beira Atlantico,60.0,11.0
+29,Beira Interior,55.0,10.0
+30,Beiras,70.0,10.0
+31,Bekaa Valley,63.0,13.0
+32,Beotia,27.0,27.0
+33,Black Sea Coastal,9.0,9.0
+34,Bordeaux,2500.0,6.0
+35,Bot River,35.0,35.0
+36,Brazil,26.0,15.0
+37,Brda,40.0,30.0
+38,Breede River Valley,10.0,10.0
+39,Breedekloof,20.0,18.0
+40,British Columbia,120.0,15.0
+41,Bucelas,20.0,7.0
+42,Buin,125.0,22.0
+43,Bulgaria,10.0,8.0
+44,Burgenland,128.0,7.0
+45,Burgundy,886.0,9.0
+46,Bío Bío Valley,25.0,9.0
+47,Cachapoal Valley,125.0,7.0
+48,Cahul,8.0,8.0
+49,California,750.0,4.0
+50,Campanha,26.0,26.0
+51,Canelones,65.0,12.0
+52,Canterbury,60.0,16.0
+53,Cape South Coast,26.0,26.0
+54,Cappadocia,30.0,15.0
+55,Carnuntum,70.0,12.0
+56,Casablanca Valley,100.0,6.0
+57,Casablanca-Curicó Valley,12.0,12.0
+58,Catalonia,770.0,6.0
+59,Cauquenes Valley,30.0,30.0
+60,Cederberg,30.0,22.0
+61,Central Greece,8.0,8.0
+62,Central Italy,100.0,7.0
+63,Central Otago,120.0,17.0
+64,Central Spain,250.0,4.0
+65,Central Valley,56.0,5.0
+66,Cephalonia,20.0,15.0
+67,Ceres Plateau,,
+68,Chalkidiki,30.0,25.0
+69,Champagne,800.0,10.0
+70,Chile,150.0,7.0
+71,Choapa Valley,16.0,15.0
+72,Coastal Region,50.0,10.0
+73,Coelemu,25.0,25.0
+74,Colchagua Costa,65.0,12.0
+75,Colchagua Valley,300.0,7.0
+76,Colorado,65.0,14.0
+77,Connecticut,20.0,11.0
+78,Constantia,22.0,12.0
+79,Corinth,16.0,15.0
+80,Crete,50.0,10.0
+81,Croatia,19.0,19.0
+82,Curicó Valley,90.0,6.0
+83,Curicó and Leyda Valleys,13.0,13.0
+84,Curicó and Maipo Valleys,12.0,12.0
+85,Cyclades,27.0,27.0
+86,Cyprus,17.0,11.0
+87,Dalmatian Coast,19.0,19.0
+88,Dan,12.0,12.0
+89,Danube River Plains,23.0,9.0
+90,Darling,20.0,14.0
+91,Dealu Mare,100.0,9.0
+92,Dealurile Munteniei,10.0,8.0
+93,Dingač,38.0,38.0
+94,Dolenjska,12.0,12.0
+95,Douro,450.0,7.0
+96,Drama,37.0,14.0
+97,Durbanville,51.0,11.0
+98,Duriense,45.0,15.0
+99,Dão,80.0,6.0
+100,East Coast,15.0,13.0
+101,Eger,70.0,19.0
+102,Eilandia,15.0,10.0
+103,Eisenberg,69.0,20.0
+104,Elazığ,29.0,20.0
+105,Elazığ-Diyarbakir,25.0,25.0
+106,Elgin,75.0,12.0
+107,Elim,29.0,29.0
+108,Ella Valley,45.0,25.0
+109,Elqui Valley,44.0,9.0
+110,England,80.0,25.0
+111,Epanomi,79.0,20.0
+112,Estremadura,16.0,7.0
+113,Florina,59.0,17.0
+114,France Other,90.0,5.0
+115,Franken,279.0,16.0
+116,Franschhoek,39.0,15.0
+117,Fruška Gora,16.0,15.0
+118,Galicia,102.0,10.0
+119,Galil,45.0,8.0
+120,Galilee,100.0,10.0
+121,Georgia,23.0,10.0
+122,Germany,40.0,13.0
+123,Gisborne,30.0,17.0
+124,Golan Heights,60.0,40.0
+125,Goriska Brda,44.0,15.0
+126,Goumenissa,27.0,27.0
+127,Greece,23.0,10.0
+128,Groenekloof,23.0,15.0
+129,Guerrouane,40.0,30.0
+130,Halkidiki,19.0,8.0
+131,Haut-Judeé,75.0,45.0
+132,Hawke's Bay,120.0,13.0
+133,Hemel en Aarde,55.0,34.0
+134,Hrvatsko Primorje,13.0,13.0
+135,Hungary,26.0,10.0
+136,Hvar,27.0,27.0
+137,Ica,68.0,10.0
+138,Idaho,50.0,6.0
+139,Illinois,32.0,32.0
+140,Iowa,16.0,13.0
+141,Ismarikos,22.0,20.0
+142,Israel,70.0,9.0
+143,Istria,41.0,13.0
+144,Italy Other,225.0,10.0
+145,Itata Valley,39.0,11.0
+146,Jidvei,16.0,10.0
+147,Jonkershoek Valley,43.0,35.0
+148,Juanico,120.0,10.0
+149,Judean Hills,85.0,12.0
+150,Kakheti,40.0,9.0
+151,Kamptal,99.0,12.0
+152,Kentucky,35.0,35.0
+153,Korinthia,15.0,13.0
+154,Korčula,28.0,24.0
+155,Kras,20.0,20.0
+156,Kremstal,84.0,11.0
+157,Kumeu,52.0,19.0
+158,Kutjevo,25.0,13.0
+159,Lakonia,40.0,40.0
+160,Languedoc-Roussillon,80.0,7.0
+161,Lebanon,75.0,20.0
+162,Leithaberg,111.0,17.0
+163,Lemesos,21.0,21.0
+164,Levante,142.0,4.0
+165,Leyda Valley,45.0,10.0
+166,Leyda Valley-Maipo Valley,13.0,10.0
+167,Limarí Valley,60.0,7.0
+168,Lisboa,65.0,6.0
+169,Loire Valley,159.0,8.0
+170,Lolol Valley,24.0,12.0
+171,Lombardy,105.0,9.0
+172,Loncomilla Valley,70.0,7.0
+173,Lontué Valley,32.0,5.0
+174,Lutzville Valley,10.0,10.0
+175,Macedonia,43.0,20.0
+176,Madeira,236.0,194.0
+177,Maipo Valley,400.0,6.0
+178,Maipo Valley-Colchagua Valley,15.0,13.0
+179,Malgas,,
+180,Malleco,43.0,35.0
+181,Mantinia,19.0,10.0
+182,Marchigue,40.0,14.0
+183,Markopoulo,25.0,25.0
+184,Marlborough,90.0,8.0
+185,Martinborough,120.0,13.0
+186,Massachusetts,36.0,15.0
+187,Maule Valley,90.0,6.0
+188,Mavrodaphne de Cephalonie,30.0,30.0
+189,Mavrodaphne of Patras,13.0,11.0
+190,Mendoza Province,230.0,4.0
+191,Messinia,11.0,11.0
+192,Michigan,250.0,13.0
+193,Middle and South Dalmatia,65.0,65.0
+194,Minho,30.0,10.0
+195,Missouri,35.0,7.0
+196,Mittelburgenland,35.0,11.0
+197,Mittelrhein,33.0,33.0
+198,Moldova,42.0,9.0
+199,Molina,13.0,8.0
+200,Monemvasia,40.0,40.0
+201,Montevideo,60.0,17.0
+202,Moravia,45.0,15.0
+203,Morocco,25.0,25.0
+204,Moscatel de Setúbal,20.0,9.0
+205,Moscatel do Douro,137.0,94.0
+206,Mosel,388.0,5.0
+207,Mosel-Saar-Ruwer,317.0,11.0
+208,Moselle Luxembourgeoise,30.0,16.0
+209,Mostar,13.0,13.0
+210,Murfatlar,20.0,9.0
+211,Muzla,16.0,16.0
+212,Mátra,13.0,13.0
+213,Nahe,400.0,10.0
+214,Naoussa,35.0,12.0
+215,Nashik,20.0,10.0
+216,Negev,12.0,12.0
+217,Negev Hills,35.0,24.0
+218,Nelson,48.0,14.0
+219,Nemea,66.0,10.0
+220,Neusiedlersee,60.0,9.0
+221,Nevada,75.0,22.0
+222,New Jersey,36.0,13.0
+223,New Mexico,36.0,10.0
+224,New South Wales,125.0,8.0
+225,New York,80.0,7.0
+226,New Zealand,25.0,16.0
+227,Niederösterreich,120.0,10.0
+228,North Carolina,50.0,10.0
+229,North Dalmatia,22.0,19.0
+230,Northeastern Italy,170.0,7.0
+231,Northern Cape,10.0,10.0
+232,Northern Spain,500.0,6.0
+233,Northwestern Italy,28.0,9.0
+234,Obidos,30.0,13.0
+235,Ohio,15.0,12.0
+236,Olifants River,100.0,10.0
+237,Ontario,80.0,12.0
+238,Oregon,240.0,7.0
+239,Other,130.0,8.0
+240,Overberg,45.0,12.0
+241,Paarl,95.0,11.0
+242,Pafos,16.0,16.0
+243,Pageon,18.0,17.0
+244,Palmela,18.0,7.0
+245,Panciu,20.0,20.0
+246,Pangeon,55.0,23.0
+247,Patras,13.0,9.0
+248,Peljesac,65.0,16.0
+249,Peloponnese,40.0,10.0
+250,Pennsylvania,46.0,13.0
+251,Península de Setúbal,55.0,8.0
+252,Peumo,200.0,14.0
+253,Pfalz,333.0,10.0
+254,Philadelphia,21.0,21.0
+255,Piedmont,595.0,9.0
+256,Piekenierskloof,,
+257,Pinto Bandeira,36.0,25.0
+258,Pirque,74.0,25.0
+259,Pitsilia Mountains,16.0,16.0
+260,Pocerina,26.0,26.0
+261,Podunavlje,13.0,13.0
+262,Polkadraai Hills,10.0,10.0
+263,Port,1000.0,12.0
+264,Portugal,59.0,6.0
+265,Portuguese Table Wine,28.0,7.0
+266,Primorska,12.0,7.0
+267,Progreso,22.0,13.0
+268,Provence,100.0,10.0
+269,Puente Alto,150.0,26.0
+270,Rapel Valley,85.0,7.0
+271,Rapsani,30.0,25.0
+272,Recas,28.0,7.0
+273,Requinoa,16.0,16.0
+274,Retsina,17.0,17.0
+275,Rheingau,775.0,14.0
+276,Rheinhessen,115.0,9.0
+277,Rhode Island,25.0,25.0
+278,Rhône Valley,500.0,7.0
+279,Ribatejano,22.0,7.0
+280,Ribatejo,29.0,6.0
+281,Rio Claro,14.0,11.0
+282,Robertson,45.0,9.0
+283,Romania,10.0,7.0
+284,Sagrada Familia,25.0,25.0
+285,Samos,19.0,13.0
+286,Samson,48.0,15.0
+287,San Antonio,86.0,11.0
+288,San Clemente,18.0,18.0
+289,San Jose,50.0,20.0
+290,San Vicente,27.0,26.0
+291,Santa Catarina,31.0,31.0
+292,Santa Cruz,95.0,35.0
+293,Santorini,50.0,13.0
+294,Sebes,20.0,9.0
+295,Serra Gaúcha,20.0,10.0
+296,Serra do Sudeste,15.0,15.0
+297,Setubal,20.0,9.0
+298,Shomron,70.0,11.0
+299,Sicily & Sardinia,320.0,7.0
+300,Simonsberg-Paarl,15.0,15.0
+301,Simonsberg-Stellenbosch,275.0,12.0
+302,Sithonia,25.0,25.0
+303,Slovenia,20.0,20.0
+304,Sopron,35.0,16.0
+305,South Africa,11.0,9.0
+306,South Australia,850.0,7.0
+307,South Island,22.0,14.0
+308,Southern Italy,180.0,6.0
+309,Southwest France,165.0,7.0
+310,Spain Other,90.0,8.0
+311,Spanish Islands,110.0,15.0
+312,Steiermark,30.0,12.0
+313,Stellenbosch,330.0,8.0
+314,Swartland,53.0,9.0
+315,Switzerland,160.0,160.0
+316,Szekszárd,30.0,20.0
+317,Südoststeiermark,60.0,15.0
+318,Südsteiermark,80.0,15.0
+319,Table wine,8.0,8.0
+320,Tarnave,8.0,8.0
+321,Tasmania,130.0,16.0
+322,Tejo,77.0,5.0
+323,Terras do Dão,10.0,10.0
+324,Terras do Sado,30.0,7.0
+325,Texas,50.0,8.0
+326,Thermenregion,110.0,15.0
+327,Thrace,39.0,15.0
+328,Thracian Valley,55.0,8.0
+329,Thraki,12.0,12.0
+330,Ticino,38.0,38.0
+331,Tikves,20.0,15.0
+332,Tokaj,80.0,15.0
+333,Tokaji,764.0,13.0
+334,Traisental,73.0,16.0
+335,Trás-os-Montes,73.0,30.0
+336,Tulbagh,70.0,40.0
+337,Turkey,23.0,15.0
+338,Tuscany,550.0,6.0
+339,Ukraine,10.0,6.0
+340,Upper Galilee,80.0,15.0
+341,Uruguay,37.0,14.0
+342,Valais,30.0,30.0
+343,Vale Trentino,28.0,20.0
+344,Vale dos Vinhedos,45.0,20.0
+345,Valle de Guadalupe,58.0,8.0
+346,Veneto,350.0,5.0
+347,Vermont,45.0,45.0
+348,Victoria,350.0,10.0
+349,Vienna,55.0,15.0
+350,Viile Timisului,12.0,7.0
+351,Villány,53.0,15.0
+352,Vinho Espumante,20.0,11.0
+353,Vinho Espumante de Qualidade,50.0,12.0
+354,Vinho Licoroso,13.0,13.0
+355,Vinho Verde,45.0,5.0
+356,Vinho da Mesa,28.0,28.0
+357,Vipavska Dolina,60.0,23.0
+358,Virginia,65.0,11.0
+359,Vlootenburg,18.0,18.0
+360,Vânju Mare,12.0,12.0
+361,Wachau,126.0,10.0
+362,Wagram,62.0,10.0
+363,Wagram-Donauland,62.0,14.0
+364,Waiheke Island,45.0,30.0
+365,Waipara,52.0,13.0
+366,Waipara Valley,40.0,8.0
+367,Wairarapa,50.0,20.0
+368,Wairau Valley,30.0,14.0
+369,Waitaki Valley,55.0,55.0
+370,Walker Bay,36.0,17.0
+371,Washington,175.0,6.0
+372,Washington-Oregon,19.0,17.0
+373,Weinland Österreich,89.0,10.0
+374,Weinviertel,60.0,12.0
+375,Wellington,25.0,10.0
+376,Western Australia,250.0,9.0
+377,Western Cape,65.0,8.0
+378,Wiener Gemischter Satz,35.0,18.0
+379,Württemberg,55.0,23.0
+380,Zenata,18.0,14.0
+381,Österreichischer Perlwein,21.0,21.0
+382,Österreichischer Sekt,44.0,15.0
+383,Štajerska,31.0,11.0
+384,Župa,40.0,18.0

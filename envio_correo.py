@@ -8,7 +8,7 @@ import os
 smtp_server = 'smtp.gmail.com'  # Cambia esto al servidor SMTP que estés utilizando
 smtp_port = 587  # Cambia esto al puerto adecuado
 sender_email = 'anthony.mcg24@gmail.com'
-sender_password = 'ltnv cxpw axyi himi'
+sender_password = 'xxxx xxxx xxxx xxxx' # por temas de seguridad no lo coloco
 
 # Detalles del correo electrónico
 receiver_email = 'jeam.mendoza.melo@gmail.com'
